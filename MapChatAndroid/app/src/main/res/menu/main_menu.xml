@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile_icon"
+            android:title="Profile" />
+
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_contact"
+            android:title="Contacts" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_contactsearch"
+            android:title="Search" />
+        <item
+            android:id="@+id/nav_requestreceived"
+            android:icon="@drawable/ic_requestreceive"
+            android:title="Request Received" />
+        <item
+            android:id="@+id/nav_requestSent"
+            android:icon="@drawable/ic_requestsend"
+            android:title="Request Sent" />
+        <item
+            android:id="@+id/nav_blocked"
+            android:icon="@drawable/ic_contactblock"
+            android:title="Blocked Contacts" />
+    </group>
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/settings_icon"
+            android:title="Settings" />
+
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout_icon"
+
+            android:title="Logout"/>
+
+    </group>
+
+</menu>

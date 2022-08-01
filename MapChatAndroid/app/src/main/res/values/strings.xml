@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Map Chat</string>
+    <!-- Strings related to login -->
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_signin">Sign in</string>
+    <string name="text_forgot">Forgot Password?</string>
+    <string name="text_signup">Sign Up</string>
+    <string name="text_name">Name</string>
+    <string name="text_cpassword">Confirm Password</string>
+    <string name="text_haveaccount">Have an Account</string>
+    <string name="text_verifyemail">Verify Email</string>
+    <string name="text_verify">Verify</string>
+    <string name="navigation_open">Open navigation</string>
+    <string name="navigation_close">Close navigation</string>
+
+    <string name="nav_chat">Chat</string>
+    <string name="nav_profile">Porfile</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_logout">Logout</string>
+
+
+    <string name="txvprofile">Profile</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
